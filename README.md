@@ -1,7 +1,7 @@
 # Datasets
 Veri setleri
 
-> Profanity, Data2, Data3, Data4, Data5 adlı tüm verisetleri twitter üzerinden belirli kelimelere/parametrelere göre ayrıştırılmış rastgele verilerdir. 
+> Profanity, Data2, Data3, Data4, Data5 adlı tüm verisetleri twitter üzerinden belirli kelimelere/parametrelere göre ayrıştırılmış rastgele kullanıclara ait rastgele verilerdir. 
 
 # Verisetleri ve İçerik Bilgisi
 
